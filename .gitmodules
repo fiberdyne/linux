@@ -1,0 +1,3 @@
+[submodule "drivers/staging/avirt"]
+	path = drivers/staging/avirt
+	url = https://github.com/fiberdyne/avirt.git
